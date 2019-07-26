@@ -1,1 +1,0 @@
-gcc -Wall loadp2.c osint_mingw.c -o loadp2
