@@ -1,0 +1,3 @@
+[submodule "loadp2_src"]
+	path = loadp2_src
+	url = git@github.com:totalspectrum/loadp2
