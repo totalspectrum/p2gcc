@@ -1,3 +1,5 @@
+#!/bin/bash
+
 function getroot {
   NAME=`echo "$1" | cut -d'.' -f1`
 }

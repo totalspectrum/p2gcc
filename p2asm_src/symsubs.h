@@ -95,7 +95,7 @@
 #else
 #define MAX_SYMBOLS    5000
 #endif
-#define MAX_SYMBOL_LEN   39
+#define MAX_SYMBOL_LEN  127
 
 #define SCOPE_NULL        0
 #define SCOPE_LOCAL       1
